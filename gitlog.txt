@@ -1,0 +1,23 @@
+commit 1cb1513af8beae31aa689d932d32ddad7b6bc2b8
+Author: liamkoni <liamkoni791@gmail.com>
+Date:   Mon Oct 1 01:52:38 2018 +1000
+
+    added ignoreme.txt and modified .gitignore
+
+commit 686b109512d8be0d425e3f55fa441ee0cb42afa5
+Author: liamkoni <liamkoni791@gmail.com>
+Date:   Mon Oct 1 01:46:48 2018 +1000
+
+    added gitignore
+
+commit d51fc8681e739e68aac4da98d06370db13af8f11
+Author: liamkoni <liamkoni791@gmail.com>
+Date:   Mon Oct 1 01:31:06 2018 +1000
+
+    added two files
+
+commit 8aeb72cf76f8ea87491b3afe783ebfff045a2141
+Author: liamkoni <liamkoni791@gmail.com>
+Date:   Mon Oct 1 01:26:38 2018 +1000
+
+    added readme.txt
