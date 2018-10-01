@@ -1,28 +1,32 @@
-# This is a large heading
+# Liam Konidaris
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I love in Brighton East, in Melbourne, Australia. Here it is very temperate and very tranquil.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I am currently reading two books:
 
-Here is `some code` in the middle of a sentence.
+1. *Shoe Dog*, by Phil Knight -- for English class at school.
+2. *Elon Musk*, a biography -- to attempt to understand the mind of the magnate.
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favourite cuisines are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- Asian
+- Greek
+- Italian
+
+In terms of favourite dishes, however, it would probably go something like this:
+
+1. Curry with rice.
+2. Pasta
+3. Souvlaki
+
+### Contact
+
+There are a myriad of ways to contact me. Ideally via email:
+-liamkoni791@gmail.com
+or alternatively, I linke using [messenger](https://www.facebook.com/messages/t/liamkonidaris)
